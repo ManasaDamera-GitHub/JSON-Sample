@@ -1,0 +1,139 @@
+{
+  "teachers": [
+    {
+      "image": "https://example.com/images/teacher1.jpg",
+      "name": "John Doe",
+      "social_icons": [
+        {"name": "twitter", "url": "https://twitter.com/johndoe"},
+        {"name": "facebook", "url": "https://facebook.com/johndoe"},
+        {"name": "linkedin", "url": "https://linkedin.com/in/johndoe"}
+      ]
+    },
+    {
+      "image": "https://example.com/images/teacher2.jpg",
+      "name": "Jane Smith",
+      "social_icons": [
+        {"name": "twitter", "url": "https://twitter.com/janesmith"},
+        {"name": "facebook", "url": "https://facebook.com/janesmith"},
+        {"name": "linkedin", "url": "https://linkedin.com/in/janesmith"}
+      ]
+    },
+    {
+      "image": "https://example.com/images/teacher3.jpg",
+      "name": "Alice Johnson",
+      "social_icons": [
+        {"name": "twitter", "url": "https://twitter.com/alicejohnson"},
+        {"name": "facebook", "url": "https://facebook.com/alicejohnson"},
+        {"name": "linkedin", "url": "https://linkedin.com/in/alicejohnson"}
+      ]
+    },
+    {
+      "image": "https://example.com/images/teacher4.jpg",
+      "name": "Bob Brown",
+      "social_icons": [
+        {"name": "twitter", "url": "https://twitter.com/bobbrown"},
+        {"name": "facebook", "url": "https://facebook.com/bobbrown"},
+        {"name": "linkedin", "url": "https://linkedin.com/in/bobbrown"}
+      ]
+    },
+    {
+      "image": "https://example.com/images/teacher5.jpg",
+      "name": "Charlie Davis",
+      "social_icons": [
+        {"name": "twitter", "url": "https://twitter.com/charliedavis"},
+        {"name": "facebook", "url": "https://facebook.com/charliedavis"},
+        {"name": "linkedin", "url": "https://linkedin.com/in/charliedavis"}
+      ]
+    },
+    {
+      "image": "https://example.com/images/teacher6.jpg",
+      "name": "Eve White",
+      "social_icons": [
+        {"name": "twitter", "url": "https://twitter.com/evewhite"},
+        {"name": "facebook", "url": "https://facebook.com/evewhite"},
+        {"name": "linkedin", "url": "https://linkedin.com/in/evewhite"}
+      ]
+    },
+    {
+      "image": "https://example.com/images/teacher7.jpg",
+      "name": "Frank Wilson",
+      "social_icons": [
+        {"name": "twitter", "url": "https://twitter.com/frankwilson"},
+        {"name": "facebook", "url": "https://facebook.com/frankwilson"},
+        {"name": "linkedin", "url": "https://linkedin.com/in/frankwilson"}
+      ]
+    },
+    {
+      "image": "https://example.com/images/teacher8.jpg",
+      "name": "Grace Lee",
+      "social_icons": [
+        {"name": "twitter", "url": "https://twitter.com/gracielee"},
+        {"name": "facebook", "url": "https://facebook.com/gracielee"},
+        {"name": "linkedin", "url": "https://linkedin.com/in/gracielee"}
+      ]
+    },
+    {
+      "image": "https://example.com/images/teacher9.jpg",
+      "name": "Henry Moore",
+      "social_icons": [
+        {"name": "twitter", "url": "https://twitter.com/henrymoore"},
+        {"name": "facebook", "url": "https://facebook.com/henrymoore"},
+        {"name": "linkedin", "url": "https://linkedin.com/in/henrymoore"}
+      ]
+    },
+    {
+      "image": "https://example.com/images/teacher10.jpg",
+      "name": "Ivy Taylor",
+      "social_icons": [
+        {"name": "twitter", "url": "https://twitter.com/ivytaylor"},
+        {"name": "facebook", "url": "https://facebook.com/ivytaylor"},
+        {"name": "linkedin", "url": "https://linkedin.com/in/ivytaylor"}
+      ]
+    },
+    {
+      "image": "https://example.com/images/teacher11.jpg",
+      "name": "Jack Harris",
+      "social_icons": [
+        {"name": "twitter", "url": "https://twitter.com/jackharris"},
+        {"name": "facebook", "url": "https://facebook.com/jackharris"},
+        {"name": "linkedin", "url": "https://linkedin.com/in/jackharris"}
+      ]
+    },
+    {
+      "image": "https://example.com/images/teacher12.jpg",
+      "name": "Karen Clark",
+      "social_icons": [
+        {"name": "twitter", "url": "https://twitter.com/karenclark"},
+        {"name": "facebook", "url": "https://facebook.com/karenclark"},
+        {"name": "linkedin", "url": "https://linkedin.com/in/karenclark"}
+      ]
+    },
+    {
+      "image": "https://example.com/images/teacher13.jpg",
+      "name": "Leo Martinez",
+      "social_icons": [
+        {"name": "twitter", "url": "https://twitter.com/leomartinez"},
+        {"name": "facebook", "url": "https://facebook.com/leomartinez"},
+        {"name": "linkedin", "url": "https://linkedin.com/in/leomartinez"}
+      ]
+    },
+    {
+      "image": "https://example.com/images/teacher14.jpg",
+      "name": "Mia Anderson",
+      "social_icons": [
+        {"name": "twitter", "url": "https://twitter.com/miaanderson"},
+        {"name": "facebook", "url": "https://facebook.com/miaanderson"},
+        {"name": "linkedin", "url": "https://linkedin.com/in/miaanderson"}
+      ]
+    },
+    {
+      "image": "https://example.com/images/teacher15.jpg",
+      "name": "Noah Thompson",
+      "social_icons": [
+        {"name": "twitter", "url": "https://twitter.com/noahthompson"},
+        {"name": "facebook", "url": "https://facebook.com/noahthompson"},
+        {"name": "linkedin", "url": "https://linkedin.com/in/noahthompson"}
+      ]
+    }
+  ]
+}
